@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div> 
+  <a href="https://www.linkedin.com/in/richard-lima-19716047/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+  <a href = "mailto:richard.lima@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_hard_ric_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 <!--
 **ric-h/ric-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
