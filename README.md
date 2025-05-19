@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/_hard_ric_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+![octopus](https://github.com/user-attachments/assets/91fe6c49-de03-44e0-b4b4-b2b9b25cbcd4)
 
 <!--
 **ric-h/ric-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
